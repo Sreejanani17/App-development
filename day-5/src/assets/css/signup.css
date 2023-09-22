@@ -1,0 +1,41 @@
+.signup-box{
+    width: 480px;
+    height: 590px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    padding-left: 90px;
+}
+.signup-bg{
+background: #BE93C5;  /* fallback for old browsers */
+height: 100vh;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.signup-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.signup-input{
+    width: 350px;
+    height: 30px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+    margin-top: 10px;
+}
+.signup-button{
+    width: 250px;
+    margin-left: 45px;
+    height: 40px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+}
+.signup-button:hover{
+    color: white;
+    background-color: black;
+}
+
