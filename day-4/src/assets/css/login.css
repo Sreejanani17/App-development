@@ -1,0 +1,40 @@
+.login-box{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    padding: 55px;
+}
+.login-bg{
+background: #BE93C5;  /* fallback for old browsers */
+height: 100vh;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.login-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.login-input{
+    width: 350px;
+    height: 30px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+}
+.login-button{
+    width: 250px;
+    margin-left: 45px;
+    height: 40px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+}
+.login-button:hover{
+    color: white;
+    background-color: black;
+}
+
+
