@@ -1,0 +1,50 @@
+.first-head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+}
+/* .label{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 500px;
+    margin-top: 8px;
+    
+} */
+.input{
+    width: 350px;
+    height: 30px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+    margin-top: 5px;
+    display: flex;
+    margin-left: 590px;   
+    
+}
+
+.box{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+}
+.sell-button{
+    width: 250px;
+    margin-left: 54px;
+    height: 40px;
+    background: transparent;
+    border-color: black;
+    border-style: solid;
+    margin-left: 650px;
+}
+.input:focus{
+    outline: none;
+}
+.input::placeholder{
+    color: black;
+}
+.sell-button:hover{
+    color: white;
+    background-color: black;
+}
