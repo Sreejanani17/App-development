@@ -1,0 +1,118 @@
+.admin-nav{
+    width: 250px;
+    height: 795px;
+    position: fixed;
+    background: #007991;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #78ffd6, #007991);
+
+
+}
+.admin-text{
+    color: rgb(0, 0, 0);
+    font-family: 'Inter';
+    text-align: center;
+    font-size: 20px;
+    border-color: transparent;
+    text-decoration: none;
+}
+.admin-text1{
+   color: rgb(0, 0, 0);
+   font-family: 'Inter';
+   text-align: center;
+   font-size: 20px;
+}
+.admin-logout{
+    height: 40px;
+    width: 150px;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border-color: black;
+    font-family: 'Inter';
+    margin-top: 250px;
+    border-style: solid;
+    margin-left: 20px;
+}
+.admin-logout:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: black;
+    border-style: solid;
+}
+.admin-loginbox{
+    margin-left: 590px;
+    height: 490px;
+    width: 400px;
+    background-color: #ffffff; 
+    box-shadow: 2px 2px 10px 0px black;
+}
+.admin-login{
+     height: 30px;
+     width: 250px;
+     border-color: #000000;
+     border-width: 2px;
+     border-style: solid;
+}
+.admin-btn{
+    height: 40px;
+    width: 200px;
+    margin-left: 100px;
+    background-color: black;
+    border-color: transparent;
+    color: white;
+}
+ttd {
+    border: 1px solid;
+    height: 30px;
+}
+th{
+    background-color: rgb(1, 50, 81);
+    border: 1px solid;  
+    color: white;
+    height: 30px;
+  }
+  
+  table {
+    width: 1000px;
+    border-collapse: collapse;
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  .dashboard-box{
+    background: #c6cbcd;  
+    height: 150px;
+    width: 250px;
+    border-radius: 10px 10px 10px 10px;
+  }
+  .dashboard-text{
+    color: rgb(9, 9, 9);
+    font-family: 'Catamaran';
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  .admin-loginbox{
+    margin-left: 590px;
+    height: 490px;
+    width: 400px;
+    background-color: #ffffff; 
+    box-shadow: 2px 2px 10px 0px black;
+}
+.admin-login{
+     height: 30px;
+     width: 250px;
+     border-color: #000000;
+     border-width: 2px;
+     border-style: solid;
+}
+.admin-btn{
+    height: 40px;
+    width: 200px;
+    margin-left: 100px;
+    background-color: black;
+    border-color: transparent;
+    color: white;
+}
+.inside-text{
+    color: black;
+}
